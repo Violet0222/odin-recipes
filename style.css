@@ -2,6 +2,56 @@ div {
    background-color: red;
    color: white;
    font-size: 32px;
-   align-items: center;
+   text-align: center;
    font-weight: bold;
+}
+.odd {
+   color: black;
+   background-color: rgb(230, 175, 184);
+   font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#two {
+   color: blue;
+   background-color: white;
+   font-size: 36px;
+   text-align: left;
+}
+.oddly-cool {
+   font-size: 24px;
+}
+#four {
+   background-color: lightgreen;
+   font-size: 24px;
+   font-weight: bold;
+   text-align: left;
+   color: black;
+}
+button {
+   font-size: 28px;
+   font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.click {
+   background-color: black;
+   color: white;
+}
+.Noclick {
+   background-color: yellow;
+}
+.avatar.proportioned {
+   height: auto;
+   width: 300;
+}
+.container .text {
+   background-color: yellow;
+   color: brown;
+   font-style: italic;
+   border: 2px solid black;
+   padding: auto;
+}
+.container {
+   background-color: white;
+   color: black;
+   font-size: 18px;
+   font-weight: lighter;
+   text-align: left;
 }
